@@ -1,7 +1,6 @@
 {
-  "name": "componentlibrary",
-  "version": "0.0.1",
-  "private": true,
+  "name": "byyutolib",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -67,5 +66,16 @@
       ],
       "pattern": "**/*.stories.tsx"
     }
-  }
+  },
+  "description": "component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristihandev/byyuto-lib.git"
+  },
+  "author": "cristihan a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristihandev/byyuto-lib/issues"
+  },
+  "homepage": "https://github.com/cristihandev/byyuto-lib#readme"
 }
